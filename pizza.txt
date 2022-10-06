@@ -2,3 +2,5 @@ from: italy
 isGood: true
 isHot: false
 isExpensive: true
+
+experiment: pizza + kimchi
