@@ -1,0 +1,4 @@
+from: japan
+isGood: true
+isHot: false
+isExpensive: true
