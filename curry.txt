@@ -1,3 +1,3 @@
 from: india
 isGood: true
-isHot: true
+isHot: false
