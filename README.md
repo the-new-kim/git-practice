@@ -154,3 +154,18 @@ Rename
 ```
 $ git branch -m <old-name> <new-name>
 ```
+
+Merge
+
+```
+$ git merge <branch-name>
+```
+
+reset 으로 merge 이전으로 돌아갈수 있음!
+merge 된 branch 는 삭제
+
+Rebase
+
+```
+$ git rebase <branch-name>
+```
