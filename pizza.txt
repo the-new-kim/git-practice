@@ -1,3 +1,4 @@
 from: italy
 isGood: true
 isHot: false
+isExpensive: true
