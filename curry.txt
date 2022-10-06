@@ -1,4 +1,4 @@
 from: india
 isGood: true
 isHot: true
-isExpensice: true
+isExpensive: true
