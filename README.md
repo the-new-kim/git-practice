@@ -169,3 +169,13 @@ Rebase
 ```
 $ git rebase <branch-name>
 ```
+
+Pull (no rebase will just merge)
+
+```
+$ git pull --no-rebase
+```
+
+```
+$ git pull --rebase
+```
