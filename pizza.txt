@@ -1,0 +1,3 @@
+from: italy
+isGood: true
+isHot: false
