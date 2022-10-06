@@ -1,0 +1,3 @@
+from: germany
+isGood: true
+isHot: false
