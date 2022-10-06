@@ -2,3 +2,4 @@ from: korea
 isGood: true
 isHot: true
 isExpensive: false
+isHot: false
