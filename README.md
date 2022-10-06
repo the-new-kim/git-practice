@@ -179,3 +179,42 @@ $ git pull --no-rebase
 ```
 $ git pull --rebase
 ```
+
+#### Practice
+
+깃 브런치 로컬에서 생성 후 깃허브에 올리기
+
+```
+$ git branch from-local
+$ git push
+$ git push -u origin from-local
+$ git branch --all
+```
+
+깃허브에서 브런치 생성후 로컬에 fetch하기
+
+깃허브에서 브런치 생성
+
+```
+git branch --all
+```
+
+리모트에서 생성한 브런치가 보이지 않음
+
+```
+git fetch
+git branch -a
+```
+
+리모트 생성된 브런치가 보임
+리모트 브런치로 스위치
+
+```
+git switch -t origin/branch-name
+```
+
+원격 브런치 지우기
+
+```
+git push origin --delete branch-name
+```
