@@ -1,9 +1,9 @@
 # Git practice
 
-[1. Setting](#1-setting)
-[2. Repository](#2-repository)
-[3. Reset & Revert](#3-reset--revert)
-[4. Branch](#4-branch)
+- [1. Setting](#1-setting)
+- [2. Repository](#2-repository)
+- [3. Reset & Revert](#3-reset--revert)
+- [4. Branch](#4-branch)
 
 ---
 
